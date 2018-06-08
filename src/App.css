@@ -1,0 +1,16 @@
+.header {
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color: #58D68D;
+  font-size: 25px;
+}
+
+.inputFile {
+  padding: 12px 5px;
+  font-size: 22px;
+}
+
+.container{
+  margin-left: 10px;
+}

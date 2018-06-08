@@ -1,0 +1,11 @@
+studentid,accuracy,priorknowledge
+student 1,High,No
+student 2,Average,Yes
+student 3,Low,No
+student 4,Average,No
+student 5,Average,No
+student 6,High,Yes
+student 7,Low,Yes
+student 8,High,No
+student 9,High,Yes
+student 10,Low,Yes
